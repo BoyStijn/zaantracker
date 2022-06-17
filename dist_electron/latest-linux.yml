@@ -1,0 +1,9 @@
+version: 1.0.0
+files:
+  - url: ZaanTracker-1.0.0.AppImage
+    sha512: /IHGKwNh/YusIxfMS91W2x1IeFLHABWd8CMFM6rDGWKVUp14sCMlRx8KzB4usEf9JoaZYmnR9tPLnY72EwKvog==
+    size: 93287708
+    blockMapSize: 99632
+path: ZaanTracker-1.0.0.AppImage
+sha512: /IHGKwNh/YusIxfMS91W2x1IeFLHABWd8CMFM6rDGWKVUp14sCMlRx8KzB4usEf9JoaZYmnR9tPLnY72EwKvog==
+releaseDate: '2022-06-17T07:45:59.062Z'

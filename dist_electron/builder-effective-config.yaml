@@ -1,0 +1,21 @@
+directories:
+  output: dist_electron
+  buildResources: build
+appId: nl.zaantracker.app
+productName: ZaanTracker
+copyright: Copyright © 2022 ${author}
+mac:
+  category: public.app-category.utilities
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+files:
+  - filter:
+      - dist/**/*
+      - electron/**/*
+linux:
+  target:
+    - AppImage
+    - deb
+    - apk
+electronVersion: 19.0.4

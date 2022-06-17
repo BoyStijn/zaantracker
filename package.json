@@ -1,6 +1,7 @@
 {
   "name": "ZaanTracker",
   "author": "Stijn Boer <stijnboer24@gmail.com>",
+  "homepage": "https://github.com/BoyStijn/zaantracker",
   "version": "1.0.0",
   "main": "electron/electron.js",
   "scripts": {
@@ -30,7 +31,6 @@
       "electron/**/*"
     ],
     "directories": {
-      "buildResources": "assets",
       "output": "dist_electron"
     },
     "linux": {
