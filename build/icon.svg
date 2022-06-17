@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128.0px"
+   height="128.0px"
+   viewBox="0 0 128.0 128.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/stijn/Documents/zvzaan/zaantracker/build/icon.png"
+   inkscape:export-xdpi="768"
+   inkscape:export-ydpi="768"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.8652189"
+     inkscape:cx="68.755653"
+     inkscape:cy="78.877044"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid892" />
+  </sodipodi:namedview>
+  <defs
+     id="defs824" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="fill:#009dff;fill-opacity:1"
+       id="g976"
+       transform="scale(8)">
+      <path
+         d="M 0,2 A 2,2 0 0 1 2,0 h 12 a 2,2 0 0 1 2,2 v 12 a 2,2 0 0 1 -2,2 H 2 A 2,2 0 0 1 0,14 Z"
+         id="path967"
+         style="fill:#009dff;fill-opacity:1" />
+    </g>
+    <g
+       style="fill:currentColor"
+       id="g1770"
+       transform="matrix(6.6889286,0,0,6.6889359,10.494274,8.818532)">
+      <path
+         d="m 8.5,5.6 a 0.5,0.5 0 1 0 -1,0 v 2.9 h -3 a 0.5,0.5 0 0 0 0,1 H 8 A 0.5,0.5 0 0 0 8.5,9 Z"
+         id="path1758" />
+      <path
+         d="M 6.5,1 A 0.5,0.5 0 0 1 7,0.5 h 2 a 0.5,0.5 0 0 1 0,1 v 0.57 c 1.36,0.196 2.594,0.78 3.584,1.64 A 0.715,0.715 0 0 1 12.596,3.697 L 12.95,3.343 12.596,2.99 a 0.50027817,0.50027817 0 0 1 0.707,-0.708 l 1.414,1.415 A 0.5,0.5 0 1 1 14.01,4.404 L 13.657,4.05 13.303,4.404 A 0.512,0.512 0 0 1 13.29,4.416 7,7 0 1 1 7,2.071 V 1.5 A 0.5,0.5 0 0 1 6.5,1 Z M 8,3 A 6,6 0 1 0 8.001,15 6,6 0 0 0 8,3 Z"
+         id="path1760" />
+    </g>
+  </g>
+</svg>
